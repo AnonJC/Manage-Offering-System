@@ -1,0 +1,24 @@
+#skeptable {
+	background: #0F1215 url(../public/03.png) no-repeat center;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	min-height: 630px;
+	width: 100%;
+	text-align: center;
+	position: relative;
+	border-bottom: 1px solid #15191d;
+}
+
+#upperme {
+	background: #0F1215 url(../public/1111.png) no-repeat center;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	min-height: 1px;
+	width: 100%;
+	text-align: left;
+	position: relative;
+	border-bottom: 0.5px solid #15191d;
+
+} 
